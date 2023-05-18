@@ -2,8 +2,6 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import "./Sidebar.css";
 import logo from "../login-page/Gupta-Promoters-Logo.svg";
-import comicon from "./icons/commercial-icon.svg"
-import resicon from "./icons/residential-icon.svg"
 import { HiOutlineBuildingOffice2, HiOutlineBuildingOffice } from 'react-icons/hi2';
 import { MdOutlinePermMedia, MdOutlineRealEstateAgent } from 'react-icons/md';
 import { IoEarthOutline } from 'react-icons/io5';

@@ -1,8 +1,11 @@
 import React from 'react'
+import Mainpanelnav from '../mainpanel-header/Mainpanelnav'
 
 function Residential() {
   return (
-    <div>Residential</div>
+    <div className='mx-5 mt-3'>
+      <Mainpanelnav />
+    </div>
   )
 }
 
